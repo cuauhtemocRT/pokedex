@@ -1,0 +1,12 @@
+.App {
+    border: solid 1px black;
+    width: 100%;
+}
+body {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
